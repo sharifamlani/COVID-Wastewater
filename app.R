@@ -135,7 +135,7 @@ ui <- fluidPage(
       a("CDPH",  href = "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Wastewater-Surveillance.aspx"), 
       
     "for more information on the data I used to build his app. Please visit my",
-    a("GitHub",  href = "http://shiny.rstudio.com"), 
+    a("GitHub",  href = "https://github.com/sharifamlani/COVID-Wastewater"), 
     
     "for the code I used to build this app.")
   )
