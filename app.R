@@ -127,7 +127,7 @@ ui <- fluidPage(
     
     br(),
     
-    p("Examining the concentration of COVID-19 in wastewater is a powerful tool to accuralty mreasure risk and assess how quikly COVID-19 is spreading through the community."),
+    p("Examining the concentration of COVID-19 in wastewater is a powerful tool to accurately measure risk and assess how quickly COVID-19 is spreading through the community."),
     
     h3("Data and Code", align = "left"),
     
