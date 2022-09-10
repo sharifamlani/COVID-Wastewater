@@ -1,0 +1,14 @@
+name: COVID-Wastewater
+title: COVID-Wastewater
+username:
+account: sharifamlani
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6970057
+bundleId: 6287150
+url: https://sharifamlani.shinyapps.io/COVID-Wastewater/
+when: 1662775482.53379
+lastSyncTime: 1662775482.53379
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .gitattributes|README.md

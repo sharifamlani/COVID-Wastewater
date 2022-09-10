@@ -125,7 +125,7 @@ ui <- fluidPage(
     
     " reports, The sewage never lies. Therefore, sewage water will be our best measure of community spread moving forward."),
     
-    br(),
+   # br(),
     
     p("Examining the concentration of COVID-19 in wastewater is a powerful tool to accurately measure risk and assess how quickly COVID-19 is spreading through the community."),
     
